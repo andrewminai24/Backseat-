@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.BackSeat",
+  "appName": "my-app",
+  "bundledWebRuntime": false,
+  "webDir": "build"
+}
